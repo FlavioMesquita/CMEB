@@ -2,10 +2,7 @@ body {
   background-color: lightblue;
 }
 
-h1 {
-  color: navy;
-  margin-left: 20px;
-}
+
 
 .container-fluid {
 	padding:0;
@@ -14,8 +11,17 @@ h1 {
 #carousel1 .carousel-inner, #carousel1 .carousel-item {
 	height: 80vh
 }
-#carousel1 .carousel-caption h5 {
-	font-size 40px
+#carousel1 .carousel-caption p {
+	font-size: 30px;
 	text-align: left;
-	text-decoration-color: rgb(0,0,0);
+	color: #1285EA;
+}
+#carousel1 .carousel-caption h5{
+	font-size: 40px;
+	text-align: left;
+	color: #E6E2EB;
+	-webkit-text-stroke: 1px black;
+}
+#carousel1 .carousel-item{
+	background-image: radial-gradient (circle, black, transparent);
 }
