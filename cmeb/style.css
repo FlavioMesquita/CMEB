@@ -6,3 +6,16 @@ h1 {
   color: navy;
   margin-left: 20px;
 }
+
+.container-fluid {
+	padding:0;
+}
+
+#carousel1 .carousel-inner, #carousel1 .carousel-item {
+	height: 80vh
+}
+#carousel1 .carousel-caption h5 {
+	font-size 40px
+	text-align: left;
+	text-decoration-color: rgb(0,0,0);
+}
