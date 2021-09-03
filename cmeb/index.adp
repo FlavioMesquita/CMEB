@@ -19,7 +19,7 @@
 
       </body>
       <main>
-        <div> class="container-fluid"
+        <div>
           <div><div id="carousel1" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -30,12 +30,12 @@
     <div class="carousel-item active">
       <img src="images/1.jpeg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <h5>First slide label</h5>
-        <p>Some representative placeholder content for the first slide.</p>
+        <h5>Lorem ipsum et</h5>
+        <p>Lorem ipsum et.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="images/2.jpeg" class="d-block w-100" alt="...">
+      <img src="images/2.jpeg" class="d-block w-100 height:auto;"  alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h5>Second slide label</h5>
         <p>Some representative placeholder content for the second slide.</p>
